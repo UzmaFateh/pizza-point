@@ -1,6 +1,5 @@
 import Image from "next/image";
 import heroImage from "../../public/pizza-c5-removebg-preview.png";
-import Nav from "@/components/navbar";
 import Speciality from "@/components/spaciality";
 import Menu from "@/components/menu";
 
