@@ -1,6 +1,7 @@
 import Image from "next/image";
 import logo from "../../public/Screenshot__608_-removebg-preview.png"
 
+
 export default function Footer() {
     return (
         <div className="main_footer">
@@ -21,12 +22,13 @@ export default function Footer() {
         <div className="footer_content2">
             <ul className="sub_footer2_ul">
                 <li><a href="">Adress : MG Road, Dubai , UAE</a></li>
-                <li><a href="">E-Mail : uzmafateh901@gmail.com"</a></li>
-            <li>
+                <li><a href="">E-Mail : uzmafateh901@gmail.com</a></li>
+            <li >
                 <a href="">FaceBook</a>
                 <a href="">Instagram</a>
                 <a href="">Twitter</a>
                 <a href="">Linked-inn</a>
+                
             </li>
         </ul>
         </div>

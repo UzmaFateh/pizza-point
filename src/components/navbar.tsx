@@ -19,10 +19,10 @@ export default function Nav() {
           </a>
           </li>
           <li className="hideOnMobile"><a href="/">Home</a></li>
-          <li className="hideOnMobile"><a href="speciality">Speciality</a></li>
-          <li className="hideOnMobile"><a href="menu">Menu</a></li>
-          <li className="hideOnMobile"><a href="booking">Booking</a></li>
-          <li className="menu-button" ><a href="#"><i className="fa-solid fa-bars"></i></a></li>
+          <li className="hideOnMobile"><a href="/speciality">Speciality</a></li>
+          <li className="hideOnMobile"><a href="/menu">Menu</a></li>
+          <li className="hideOnMobile"><a href="/booking">Booking</a></li>
+         
         </ul>
       </nav>
       </main>

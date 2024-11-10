@@ -291,7 +291,7 @@ transform: scale(1.1);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  color: white;
+  color: #ffc135;
   padding-top: 8%;
   padding-bottom: 2%;
   
@@ -342,7 +342,10 @@ transform: scale(1.1);
  
   padding-left: 4%;
   font-size: large;
+  color: #ffc135;
 }
+
+
 
 .mobile-nav{
   display: none;
