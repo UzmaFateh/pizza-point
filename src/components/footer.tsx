@@ -20,13 +20,13 @@ export default function Footer() {
         </div>
         <div className="footer_content2">
             <ul className="sub_footer2_ul">
-                <li><a href=""><i className="fa-solid fa-location-dot"></i> : MG Road, Dubai , UAE</a></li>
-                <li><a href=""><i className="fa-solid fa-envelope"></i> : uzmafateh901@gmail.com"</a></li>
+                <li><a href="">Adress : MG Road, Dubai , UAE</a></li>
+                <li><a href="">E-Mail : uzmafateh901@gmail.com"</a></li>
             <li>
-                <a href=""><i className="fa-brands fa-facebook"></i></a>
-                <a href=""><i className="fa-brands fa-square-instagram"></i></a>
-                <a href=""><i className="fa-brands fa-twitter"></i></a>
-                <a href=""><i className="fa-brands fa-linkedin"></i></a>
+                <a href="">FaceBook</a>
+                <a href="">Instagram</a>
+                <a href="">Twitter</a>
+                <a href="">Linked-inn</a>
             </li>
         </ul>
         </div>
